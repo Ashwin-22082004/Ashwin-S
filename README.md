@@ -15,7 +15,7 @@ Right now, I’m building a **Bug Bounty Platform** tailored for **students and 
 
 ## 🏆 Achievements
 
-- 🥇 **#1 on GeeksforGeeks** in my college
+- 🥇 **#1 on GeeksforGeeks** in my college  
 - 🥈 **Silver Elite** in NPTEL’s Python Programming course
 
 ---
@@ -54,8 +54,8 @@ Right now, I’m building a **Bug Bounty Platform** tailored for **students and 
 
 ## 📊 GitHub Stats
 
-![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwins07&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwins07&layout=compact&theme=radical)
+![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwin-22082004&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-22082004&layout=compact&theme=radical)
 
 ---
 
@@ -67,4 +67,3 @@ Right now, I’m building a **Bug Bounty Platform** tailored for **students and 
 ---
 
 > 🔍 _“Stay curious, stay ethical.”_
-
