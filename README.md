@@ -9,7 +9,7 @@
 ## 🔐 Bug Hunting & Web Security
 
 I’m actively into **bug bounty hunting**, fascinated by how systems fail and how they can be secured.  
-Right now, I’m building a **Bug Bounty Platform** tailored for **students and educators** to practice web security hands-on.
+Right now, I’m building a **Bug Bounty Platform** tailored for **students and educators** to practice web security hands‑on.
 
 ---
 
@@ -54,15 +54,9 @@ Right now, I’m building a **Bug Bounty Platform** tailored for **students and 
 
 ## 📊 GitHub Stats
 
-![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwin-22082004&show_icons=true&theme=dark&hide_border=true)  
-![Ashwin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashwin-22082004&theme=dark&hide_border=true)  
-![Ashwin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-22082004&layout=compact&theme=dark&hide_border=true)
-
----
-
-### 💬 Most Used Languages
-
-<img src="https://github.com/Ashwin-22082004/Ashwin-22082004/raw/main/assets/language-stats.png" width="400"/>
+![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwin-22082004&show_icons=true&theme=dark&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-22082004&layout=compact&theme=dark)  
+![Streak Stats](https://github-readme-stats.vercel.app/api/streak-stats?user=Ashwin-22082004&theme=dark)
 
 ---
 
