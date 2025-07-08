@@ -56,22 +56,30 @@ Right now, I’m building a **Bug Bounty Platform** tailored for **students and 
 ## 📊 GitHub Stats
 
 ![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwin-22082004&show_icons=true&theme=dark&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-22082004&layout=compact&theme=dark)  
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Ashwin-22082004&theme=dark)
 
 ---
 
 ## 🧠 Most Used Languages (Graphical)
 
-![Most Used Languages](https://nirzak-streak-stats.vercel.app/?user=Ashwin-22082004&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-22082004&layout=compact&theme=dark)  
+
+---
+
+## 🧠 LeetCode Stats
+
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AshwinS?ext=contest&theme=dark)](https://leetcode.com/u/ashwin_03/)
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashwin-22--/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashwinshanmugam8@gmail.comm)
-[![Phone](https://img.shields.io/badge/-Phone-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+917010247061)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ashwin-22--/)
+- 📧 Email: [ashwinshanmugam8@gmail.com](mailto:ashwinshanmugam8@gmail.com)
+- 📱 Mobile: [+917010247061](tel:+917010247061)
+- 💬 WhatsApp: [Chat Now](https://wa.me/qr/C2S5QZM6BQVGI1)
 
 
 ---
