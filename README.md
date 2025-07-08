@@ -58,6 +58,8 @@ Right now, I’m building a **Bug Bounty Platform** tailored for **students and 
 ![Ashwin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashwin-22082004&theme=dark&hide_border=true)  
 ![Ashwin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-22082004&layout=compact&theme=dark&hide_border=true)
 
+---
+
 ### 💬 Most Used Languages
 
 <img src="https://github.com/Ashwin-22082004/Ashwin-22082004/raw/main/assets/language-stats.png" width="400"/>
@@ -67,7 +69,7 @@ Right now, I’m building a **Bug Bounty Platform** tailored for **students and 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-url)  
-📧 **Email:** ashwinsahnmugam8@gmail.com
+📧 **Email:** your.email@example.com
 
 ---
 
