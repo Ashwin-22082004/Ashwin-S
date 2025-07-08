@@ -58,7 +58,7 @@ Currently, I'm developing a **student-focused Bug Bounty Practice Platform** tha
 
 ![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwin-22082004&show_icons=true&theme=dark&count_private=true)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Ashwin-22082004&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-22082004&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-22082004&layout=compact&langs_count=8&hide_border=true&theme=dark)](https://github.com/Ashwin-22082004)
 
 ---
 
