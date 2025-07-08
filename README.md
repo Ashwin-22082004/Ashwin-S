@@ -56,7 +56,13 @@ Right now, I’m building a **Bug Bounty Platform** tailored for **students and 
 
 ![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwin-22082004&show_icons=true&theme=dark&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-22082004&layout=compact&theme=dark)  
-![Streak Stats](https://github-readme-stats.vercel.app/api/streak-stats?user=Ashwin-22082004&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Ashwin-22082004&theme=dark)
+
+---
+
+## 🧠 Most Used Languages (Graphical)
+
+![Most Used Languages](https://nirzak-streak-stats.vercel.app/?user=Ashwin-22082004&theme=dark&hide_border=true)
 
 ---
 
