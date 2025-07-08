@@ -60,12 +60,6 @@ Right now, I’m building a **Bug Bounty Platform** tailored for **students and 
 
 ---
 
-## 🧠 Most Used Languages (Graphical)
-
-![Most Used Languages](https://nirzak-streak-stats.vercel.app/?user=Ashwin-22082004&theme=dark&hide_border=true)
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-url)  
