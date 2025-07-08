@@ -15,8 +15,9 @@ Right now, I’m building a **Bug Bounty Platform** tailored for **students and 
 
 ## 🏆 Achievements
 
-- 🥇 **#1 on GeeksforGeeks** in my college  
-- 🥈 **Silver Elite** in NPTEL’s Python Programming course
+- 🥇 **#1 JAVA DEVELOPER** in my college  
+- 🥈 **Elite** in NPTEL’s Introduction to Internet of Things course
+  
 
 ---
 
@@ -68,8 +69,10 @@ Right now, I’m building a **Bug Bounty Platform** tailored for **students and 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-url)  
-📧 **Email:** your.email@example.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashwin-22--/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashwinshanmugam8@gmail.comm)
+[![Phone](https://img.shields.io/badge/-Phone-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+917010247061)
+
 
 ---
 
