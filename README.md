@@ -70,7 +70,7 @@ Right now, I’m building a **Bug Bounty Platform** tailored for **students and 
 ## 🧠 LeetCode Stats
 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AshwinS?ext=contest&theme=dark)](https://leetcode.com/u/ashwin_03/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ashwin_03?ext=contest&theme=dark)](https://leetcode.com/u/ashwin_03/)
 
 ---
 
