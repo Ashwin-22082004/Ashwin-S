@@ -1,23 +1,24 @@
-# 👋 Hello! I'm Ashwin S
+# 👋 Hey there, I'm Ashwin S
 
-🎓 A passionate **Full-Stack Developer** and **Cybersecurity Enthusiast** from 🇮🇳 India  
-🎯 Currently pursuing **B.E. Computer Science and Engineering**  
-🚀 I build meaningful projects to sharpen my skills and contribute to the tech community
+🎓 I’m a passionate **Full-Stack Developer** and **Cybersecurity Enthusiast** from 🇮🇳 India, currently pursuing **B.E. in Computer Science and Engineering**. I specialize in building secure, scalable web applications and exploring how systems can be both built and broken (ethically, of course 👨‍💻).
 
 ---
 
-## 🔐 Bug Hunting & Web Security
+## 🔐 Cybersecurity & Bug Bounties
 
-I’m actively into **bug bounty hunting**, fascinated by how systems fail and how they can be secured.  
-Right now, I’m building a **Bug Bounty Platform** tailored for **students and educators** to practice web security hands‑on.
+I’m deeply invested in the **bug bounty space**, always learning how systems can be exploited and fortified.  
+Currently, I'm developing a **student-focused Bug Bounty Practice Platform** that lets users ethically test and improve their web security skills.
+
+> 🔎 “Hack to learn, don’t learn to hack.”
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights & Achievements
 
-- 🥇 **#1 JAVA DEVELOPER** in my college  
-- 🥈 **Elite** in NPTEL’s Introduction to Internet of Things course
-  
+- 🥇 **#1 Java Developer** in my college
+- 🥈 **Elite** certification in NPTEL’s *Introduction to IoT*
+- 🧠 Consistently top-ranked on **GeeksforGeeks** problem-solving leaderboard
+- 💡 Currently working on **AI-powered waste classification** and **carbon footprint tracker** web tools
 
 ---
 
@@ -36,7 +37,7 @@ Right now, I’m building a **Bug Bounty Platform** tailored for **students and 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring)
+![Spring Boot](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens)
 
 **Database & Cloud**  
@@ -56,19 +57,12 @@ Right now, I’m building a **Bug Bounty Platform** tailored for **students and 
 ## 📊 GitHub Stats
 
 ![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwin-22082004&show_icons=true&theme=dark&count_private=true)  
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Ashwin-22082004&theme=dark)
-
----
-
-## 🧠 Most Used Languages (Graphical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-22082004&layout=compact&theme=dark)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Ashwin-22082004&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-22082004&layout=compact&theme=dark)
 
 ---
 
 ## 🧠 LeetCode Stats
-
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ashwin_03?ext=contest&theme=dark)](https://leetcode.com/u/ashwin_03/)
 
@@ -76,12 +70,11 @@ Right now, I’m building a **Bug Bounty Platform** tailored for **students and 
 
 ## 🌐 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ashwin-22--/)
-- 📧 Email: [ashwinshanmugam8@gmail.com](mailto:ashwinshanmugam8@gmail.com)
-- 📱 Mobile: [+917010247061](tel:+917010247061)
-- 💬 WhatsApp: [Chat Now](https://wa.me/qr/C2S5QZM6BQVGI1)
-
+📱 Mobile: [+91 7010247061](tel:+917010247061)  
+📧 Email: [ashwinshanmugam8@gmail.com](mailto:ashwinshanmugam8@gmail.com)  
+💬 WhatsApp: [Chat Now](https://wa.me/919010247061)  
+🔗 LinkedIn: [ashwin-22--](https://www.linkedin.com/in/ashwin-22--/)
 
 ---
 
-> 🔍 _“Stay curious, stay ethical.”_
+> _"Break things to understand them. Secure them to master them."_ 🛡️
